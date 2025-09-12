@@ -82,8 +82,11 @@ From our prediction modeling analysis, The K nearest model had a recall score of
 
 ## 💼 Business Recommendations
 1.Enhance Customer Service Efficiency: A high amount of customer service interactions with customers is seen to increase churn. Investing in comprehensive training sessions for support stuff, and implmenting better issue/conflict resolution frameworks can significantly boost customer satisfation, and in turn minimize the rate of customer churn.
+
 2.Review and Optimize Call Rate Plans: A large proportion of churners are linked to high day, evening, night, and international call charges. Reassessing the current pricing structure and introducing more competitive or bundled rate plans will make services more attractive and cost-effective, reducing churn caused by price dissatisfaction
+
 3.Targeted Incentives for High-Churn Area Codes: Customers in area codes 415 and 510 show a higher likelihood of churn. Introducing specialized incentives such as discounts, loyalty rewards, or exclusive promotions for these regions can help retain at-risk customers and strengthen long-term relationships.
+
 4.State-Specific Retention Strategies: States such as Texas, New Jersey, Maryland, Florida (Miami), and New York exhibit above-average churn rates. Developing localized retention strategies, including personalized engagement, region-specific promotions, and enhanced customer support, will help strengthen loyalty in these high-risk markets.
 
 ## 📶 Next Steps
