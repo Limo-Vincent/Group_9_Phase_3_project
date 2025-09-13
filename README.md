@@ -1,6 +1,5 @@
 # Group_9_Phase_3_project
-## Project Title  
-Customer Churn Prediction Using Machine Learning  
+## SyriaTel Customer Churn Prediction
 
 ## Introduction  
 Customer churn is a critical issue for businesses, especially in highly competitive industries like telecommunications. Churn occurs when customers stop using a company’s services and switch to competitors. Retaining customers is often more cost-effective than acquiring new ones, which makes churn prediction an important task.  
