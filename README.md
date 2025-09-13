@@ -101,4 +101,4 @@ Preprocessing Pipelines: Implement automated preprocessing pipelines (scaling, e
 
 Author: Dennis Chesire
 Email:denniskipropchesire@gmail.com
-LinkedIn:https://www.linkedin.com/in/dennis-kiprop-780003294/
+LinkedIn:www.linkedin.com/in/dennis-chesire-780003294
