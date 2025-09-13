@@ -77,8 +77,9 @@ Drawing conclusions from the analysis and modeling process.
 
 Provision of data-driven insights and recommendations, based on the conducted analysis.
 
-## 📝 Conclusion
-From our prediction modeling analysis, The K nearest model had a recall score of 0.40, while the Gradient Boosting model achieved a recall score of 0.82. However, the Gradient Boosting model had a higher AUC score of 0.921, while the Random forest model had an AUC score of 0.911. We were able to meet all our set objectives, which were to build a customer churn prediction model with a recall score of 0.8 and above, and to identify the key features that contribute significantly to customer churn, which include Customer Service Calls, Total Day Charge, and International Plan. Due to the nature of the project and the prediction problem, I would recommend the XGBoost classifier model with a higher recall for predicting customer churn rates at SyriaTel Telecommunication company.
+## key Visualization
+1. ROC Curve 
+![ROC](Images/roc.png)
 
 ## 💼 Business Recommendations
 1.Enhance Customer Service Efficiency: A high amount of customer service interactions with customers is seen to increase churn. Investing in comprehensive training sessions for support stuff, and implmenting better issue/conflict resolution frameworks can significantly boost customer satisfation, and in turn minimize the rate of customer churn.
@@ -98,6 +99,9 @@ Handling Class Imbalance: Explore resampling techniques such as class weights, A
 Feature Engineering: Derive new variables (e.g., customer lifetime value, call pattern ratios) to increase model robustness and predictive power.
 
 Preprocessing Pipelines: Implement automated preprocessing pipelines (scaling, encoding, feature selection) to reduce data leakage and ensure consistent transformations across training and production.
+
+## 📝 Conclusion
+From our prediction modeling analysis, The K nearest model had a recall score of 0.40, while the Gradient Boosting model achieved a recall score of 0.82. However, the Gradient Boosting model had a higher AUC score of 0.921, while the Random forest model had an AUC score of 0.911. We were able to meet all our set objectives, which were to build a customer churn prediction model with a recall score of 0.8 and above, and to identify the key features that contribute significantly to customer churn, which include Customer Service Calls, Total Day Charge, and International Plan. Due to the nature of the project and the prediction problem, I would recommend the XGBoost classifier model with a higher recall for predicting customer churn rates at SyriaTel Telecommunication company.
 
 Author: Dennis Chesire
 Email:denniskipropchesire@gmail.com
