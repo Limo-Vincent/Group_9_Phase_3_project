@@ -156,6 +156,16 @@ Implement targeted retention campaigns focused on customers flagged as high risk
 
 Continuously monitor churn metrics and update the predictive model with new customer data to maintain accuracy.
 
+Limitations & Future Work
+
+Data imbalance: Despite using SMOTE and class weights, the dataset still had fewer churn cases than non-churn, which can limit model generalization.
+
+Feature limitations: The dataset did not include customer demographics (e.g., age, income, contract type) that could provide a deeper understanding of churn behavior.
+
+Business context: The dataset is static and may not reflect current customer dynamics or external factors such as competitor actions.
+
+Model deployment: The project remains at the analysis stage; deploying the model in a real-time environment would be the next practical step.
+
 Next Steps:
 
 Deploy the Random Forest model into Syriatel’s CRM system for real-time churn prediction.
