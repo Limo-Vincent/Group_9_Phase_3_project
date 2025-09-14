@@ -56,10 +56,6 @@ EDA provided insights into feature distributions and their relationships with ch
 
  - Multivariate Analysis
 
- - Handling Multicollinearity
-
- - Handling Outliers
-
 **Data Preprocessing**
  - Splitting Features and Target
 
