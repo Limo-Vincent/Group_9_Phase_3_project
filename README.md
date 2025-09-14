@@ -136,8 +136,9 @@ Among the models tested, the Random Forest Classifier consistently outperformed 
 ## Repository Structure
  - `Images` folder    -   Visuals 
  - `Data` folder     -   datasets
- - `Syriatel_group_presentation pdf` -   Project presentation 
  - `README.md`      -    Project overview and navigatio
+ - `SyriaTel_Customer_Churn_Data_Report` - Data report
+ - `Syriatel_group_presentation pdf` -   Project presentation 
  - `customer_churn.ipynb`  -   Jupyter notebook for data cleaning and analysis
 
  ## Technologies Used
